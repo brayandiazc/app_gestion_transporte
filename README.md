@@ -13,8 +13,8 @@
 ## Etapa 2
 
 - [ ] Validaciones
-- [ ] Relaciones
 - [ ] Scaffold
+- [ ] Relaciones
 - [ ] Integracion con faker
 - [ ] Integrar pagy
 
