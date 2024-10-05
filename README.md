@@ -1,24 +1,34 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Etapa 1
 
-Things you may want to cover:
+- Generar proyecto
+- Agregar dependecias
+- Iniciar la base de datos
+- Modelo vehiculos
+- Modelo tipo de carga
+- Devise usuarios
 
-* Ruby version
+## Etapa 2
 
-* System dependencies
+- Validaciones
+- Relaciones
+- Scaffold
+- Integracion con faker
+- Integrar pagy
 
-* Configuration
+## Etapa 3
 
-* Database creation
+- Vistas de paginas estaticas
+- Vistas de scaffold
+- Vista de layout
+- Vistas de Devise
+- css junto a bootstrap
 
-* Database initialization
+# Etapa 4
 
-* How to run the test suite
+- Probar app y funcionalidades
 
-* Services (job queues, cache servers, search engines, etc.)
+# Etapa 5
 
-* Deployment instructions
-
-* ...
+- Deploy
