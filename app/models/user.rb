@@ -20,7 +20,7 @@ class User < ApplicationRecord
          :recoverable, :rememberable, :validatable
 
   # Relaciones
-  has_many :trayectos
+  has_many :trayectos, dependent: :destroy
 
   # Logica enum
   enum tipo_usuario: { conductor: 'conductor', supervisor: 'supervisor' }
