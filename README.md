@@ -6,7 +6,7 @@
 - [x] Vista estatica
 - [x] Iniciar la base de datos
 - [x] Modelo vehiculos
-- [ ] Modelo tipo de carga
+- [x] Modelo tipo de carga
 - [ ] Agregar dependecias
 - [ ] Devise usuarios
 
