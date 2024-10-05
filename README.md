@@ -5,7 +5,7 @@
 - [x] Generar proyecto
 - [x] Vista estatica
 - [x] Iniciar la base de datos
-- [ ] Modelo vehiculos
+- [x] Modelo vehiculos
 - [ ] Modelo tipo de carga
 - [ ] Agregar dependecias
 - [ ] Devise usuarios
