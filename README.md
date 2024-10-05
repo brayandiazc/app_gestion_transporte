@@ -7,7 +7,7 @@
 - [x] Iniciar la base de datos
 - [x] Modelo vehiculos
 - [x] Modelo tipo de carga
-- [ ] Agregar dependecias
+- [x] Agregar dependecias
 - [ ] Devise usuarios
 
 ## Etapa 2
