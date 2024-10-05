@@ -12,4 +12,7 @@ class TipoCarga < ApplicationRecord
   # Validaciones
   validates :nombre, presence: true, uniqueness: true
   validates :descripcion, presence: true
+
+  # Relaciones
+  has_many :trayectos
 end
