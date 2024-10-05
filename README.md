@@ -14,7 +14,7 @@
 
 - [x] Validaciones
 - [x] Scaffold
-- [ ] Relaciones
+- [x] Relaciones
 - [ ] Integracion con faker
 - [ ] Integrar pagy
 
