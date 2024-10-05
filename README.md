@@ -15,7 +15,7 @@
 - [x] Validaciones
 - [x] Scaffold
 - [x] Relaciones
-- [ ] Integracion con faker
+- [x] Integracion con faker
 - [ ] Integrar pagy
 
 ## Etapa 3
