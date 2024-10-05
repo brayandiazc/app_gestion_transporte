@@ -8,7 +8,7 @@
 - [x] Modelo vehiculos
 - [x] Modelo tipo de carga
 - [x] Agregar dependecias
-- [ ] Devise usuarios
+- [x] Devise usuarios
 
 ## Etapa 2
 
