@@ -12,13 +12,13 @@
 
 ## Etapa 2
 
-- [ ] Validaciones
-- [ ] Scaffold
+- [x] Validaciones
+- [x] Scaffold
 - [ ] Relaciones
 - [ ] Integracion con faker
 - [ ] Integrar pagy
 
-## Etapa 3
+## Etapa 3
 
 - [ ] Vistas de paginas estaticas
 - [ ] Vistas de scaffold
@@ -26,10 +26,10 @@
 - [ ] Vistas de Devise
 - [ ] css junto a bootstrap
 
-# Etapa 4
+## Etapa 4
 
 - [ ] Probar app y funcionalidades
 
-# Etapa 5
+## Etapa 5
 
 - [ ] Deploy
